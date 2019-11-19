@@ -4,8 +4,8 @@ env: dev
 
 label: test05
 person:
-  name: parker
-  age: 25  
+  name: abcdef
+  age: 20  
         
 
 #eureka server 服务注册中心的地址
