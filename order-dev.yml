@@ -4,8 +4,8 @@ env: dev
 
 label: test05
 person:
-  name: abcdef
-  age: 20  
+  name: lili
+  age: 23  
         
 
 #eureka server 服务注册中心的地址
