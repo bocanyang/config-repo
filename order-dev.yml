@@ -4,8 +4,8 @@ env: dev
 
 label: test05
 person:
-  name: linda
-  age: 23  
+  name: ldtbh
+  age: 24  
         
 
 #eureka server 服务注册中心的地址
