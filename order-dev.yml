@@ -4,8 +4,8 @@ env: dev
 
 label: test05
 person:
-  name: tony_parker
-  age: 21  
+  name: tony_psssdd
+  age: 23  
         
 
 #eureka server 服务注册中心的地址
